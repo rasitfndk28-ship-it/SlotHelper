@@ -3,6 +3,6 @@ loaderVersion="[47,)"
 license="MIT"
 
 [[mods]]
-modId="examplemod"
+modId="slothelper"
 version="1.0.0"
 displayName="Slot Helper"
